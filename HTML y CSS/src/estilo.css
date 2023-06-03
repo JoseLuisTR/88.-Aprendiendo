@@ -1,0 +1,29 @@
+h1{
+    color: rgb(243, 132, 29);    
+}
+
+h2{
+    color: #321df3;    
+}
+
+p{
+    color: blueviolet;
+}    
+
+div {
+    color: darkgreen;
+}
+
+.clasediv01{
+    color: #ee0f9c;
+}
+.clasediv02{
+    color: #02022d82;
+}
+
+.padre{
+    background: rgba(83, 215, 114, 0.741);
+    height: 200px; 
+    width: 333px;
+    margin: 3px 12px 47px 12px;  /*top  right  bottom  left*/
+}
